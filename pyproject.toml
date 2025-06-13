@@ -1,0 +1,11 @@
+[project]
+name = "bayesopt_tutorial"
+version = "0.1.0"
+description = "Educational Bayesian Optimisation library (pure NumPy)"
+authors = [{name = "Your Name"}]
+requires-python = ">=3.9"
+dependencies = ["numpy"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
